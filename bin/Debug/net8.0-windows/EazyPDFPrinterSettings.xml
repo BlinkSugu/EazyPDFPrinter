@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EazyPDFPrinterSettings>
+  <Software>
+    <Name>Adobe</Name>
+    <ExePath>c:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe</ExePath>
+  </Software>
+  <Directory>
+    <Default>C:\Users\e404880\Documents</Default>
+  </Directory>
+</EazyPDFPrinterSettings>
